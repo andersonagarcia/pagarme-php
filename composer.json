@@ -1,9 +1,10 @@
 {
-    "repositories" : [
+    "repositories": [
         {
-            "type" : "vcs",
-            "url" : "https://github.com/pagarme/git-hooks.git"
+            "type": "vcs",
+            "url": "https://github.com/andersonagarcia/pagarme-php"
         }
+
     ],
     "name": "pagarme/pagarme-php",
     "description": "Pagar.Me PHP Library",
