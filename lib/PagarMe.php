@@ -137,7 +137,7 @@ class PagarMe
         $this->client = new Client(
             new GuzzleClient(
                 [
-                    'base_url' => 'https://api.pagar.me/1/',
+                    'base_uri' => 'https://api.pagar.me/1/',
                     'defaults' => [
                         'headers' => $headers
                     ]
